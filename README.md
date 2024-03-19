@@ -20,6 +20,7 @@ Nimi, ilmansuunta, Puhelinnumero
 
 ## Ruokaa
 
+- Pia Lily Lamminen. 045-6651191. Ateriapalvelut kotiin.
 
 
 
