@@ -14,7 +14,7 @@ Nimi, ilmansuunta, Puhelinnumero
 
 ## Auton korjausta
 
-- LAM Lassi auto ja metalli +358 44 2018959 
+
 
 ## Taksit
 
