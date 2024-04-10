@@ -8,7 +8,8 @@ Nimi, ilmansuunta, Puhelinnumero
 - Konetyö Rajakangas oy +358 44 2382291 jalmari.rajakangas@gmail.com
 - Matti Peltomäki 040 593 9262
 - Pentti Wanhatalo 0503271963 100klapi@gmail.com
-
+- Markku Metsänen 045-6511252
+- Vastop Oy https://www.facebook.com/profile.php?id=100090697750280
 ## Talonmies ja rakennus töitä
 
 
