@@ -14,14 +14,15 @@ Nimi, ilmansuunta, Puhelinnumero
   
 ## Talonmies ja rakennus töitä
 
+## Konetyöt, maanrakennenus, lumenaurauraus
+
+- Sakari Kunvik 044-5626061
 
 ## Auton korjausta
 
 - Ville Alanko 044-0920014
   
 ## Koneiden korjausta
-
-- Sakari Kunvik 044-5626061
 
 ## Taksit
 
@@ -32,7 +33,8 @@ Nimi, ilmansuunta, Puhelinnumero
 ## Mökkejä
 
 - Korpirämäkkä 02-5411157
-
+- Sakari Kunvik 044-5626061
+  
 ## Romun nouto
 
 - Valtteri Naperoinen 044-7772015
