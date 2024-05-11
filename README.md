@@ -3,19 +3,25 @@
 ## Klapeja
 Nimi, ilmansuunta, Puhelinnumero
 
-- Juhani Mäensivu 0505507253
+- Juhani Mäensivu 050-5507253
 - Esa Leppäniemi Honkakoski
-- Konetyö Rajakangas oy +358 44 2382291 jalmari.rajakangas@gmail.com
-- Matti Peltomäki 040 593 9262
-- Pentti Wanhatalo 0503271963 100klapi@gmail.com
+- Konetyö Rajakangas Oy 044-2382291 jalmari.rajakangas@gmail.com
+- Matti Peltomäki 040-5939262
+- Pentti Wanhatalo 050-3271963 100klapi@gmail.com
 - Markku Metsänen 045-6511252
 - Vastop Oy https://www.facebook.com/profile.php?id=100090697750280
+- Valtteri Naperoinen 044-7772015
+  
 ## Talonmies ja rakennus töitä
 
 
 ## Auton korjausta
 
+- Ville Alanko 044-0920014
+  
+## Koneiden korjausta
 
+- Sakari Kunvik 044-5626061
 
 ## Taksit
 
@@ -23,5 +29,11 @@ Nimi, ilmansuunta, Puhelinnumero
 
 - Pia Lily Lamminen. 045-6651191. Ateriapalvelut kotiin.
 
+## Mökkejä
 
+- Korpirämäkkä 02-5411157
 
+## Romun nouto
+
+- Valtteri Naperoinen 044-7772015
+  
