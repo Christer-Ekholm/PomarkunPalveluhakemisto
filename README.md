@@ -17,7 +17,8 @@ Nimi, ilmansuunta, Puhelinnumero
 ## Konetyöt, maanrakennenus, lumenaurauraus
 
 - Sakari Kunvik 044-5626061
-
+- Erkki-Jalmari Isoviita 045-2086630
+  
 ## Auton korjausta
 
 - Ville Alanko 044-0920014
