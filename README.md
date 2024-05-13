@@ -11,6 +11,7 @@ Nimi, ilmansuunta, Puhelinnumero
 - Markku Metsänen 045-6511252
 - Vastop Oy https://www.facebook.com/profile.php?id=100090697750280
 - Valtteri Naperoinen 044-7772015
+- Mikko Huhtala 046-6461427
   
 ## Talonmies ja rakennus töitä
 
