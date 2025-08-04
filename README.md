@@ -36,7 +36,7 @@ Nimi, ilmansuunta, Puhelinnumero
 
 - Korpirämäkkä 02-5411157
 - Sakari Kunvik 044-5626061
-- Johanna Särkijärvi 040-0267610
+- Johanna Särkijärvi 040-0267610 https://johannasarkijarvi.fi/
 - Sarianna Särkijärvi 045-3592533
 
 ## Romun nouto
